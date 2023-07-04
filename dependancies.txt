@@ -1,0 +1,5 @@
+  gql: ^0.14.0
+  graphql_schema2: ^5.0.0
+
+
+name_branch: test/generate
